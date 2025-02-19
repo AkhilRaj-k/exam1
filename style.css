@@ -1,0 +1,60 @@
+*{
+    padding: 0PX;
+    box-sizing: border-box;
+}
+table{
+    background-color: blue;
+    color: white;
+}
+.side{
+    display: grid;
+    padding: 50px;
+}
+a{
+    text-decoration: none;
+    text-align: left;
+    color: white;
+}
+img{
+    position: absolute;
+    top: -70px;
+    height: 500px;
+    left: 183px;
+}
+.h1{
+    display: flex;
+    justify-content: left;
+    margin-left: 300px;
+
+}
+.para{
+    display: grid;
+    margin-left: 250px;
+    text-align: justify;
+}
+.h2{
+    display: flex;
+    justify-content: center;
+    margin-left: 10px;
+
+}
+.para2{
+    display: grid;
+    margin-left: 650px;
+    text-align: justify;
+}
+.img2{
+    position: absolute;
+    top: 690px;
+    left: 90px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    padding: 10px;
+    width: 100px;
+    position: absolute;
+    right: 746px;
+
+}
